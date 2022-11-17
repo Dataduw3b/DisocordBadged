@@ -1,4 +1,4 @@
-# DisocordBadged
+# DiscordBadged
 
 
 ### How to use
